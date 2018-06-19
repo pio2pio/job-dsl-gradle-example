@@ -145,7 +145,7 @@ dependencies {
     testPlugins 'org.jenkinsci.plugins:pipeline-model-declarative-agent:1.1.1'
     testPlugins 'io.jenkins.blueocean:blueocean-commons:1.2.4'
     testPlugins 'org.jenkins-ci.plugins:gradle:1.27.1'
-    testPlugins 'io.jenkins.blueocean:blueocean-rest-impl:1.2.4'
+//  testPlugins 'io.jenkins.blueocean:blueocean-rest-impl:1.2.4'
     testPlugins 'org.jenkins-ci.plugins:disk-usage:0.28'
     testPlugins 'com.cloudbees.jenkins.plugins:docker-custom-build-environment:1.6.5'
     testPlugins 'io.jenkins.blueocean:blueocean-jira:1.2.4'
